@@ -1,6 +1,9 @@
 body{
 background-color: aqua;
 color: brown;
+background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.designi.com.br%2Fa0323f6da938470f&psig=AOvVaw3qBtAqVS2SOzjc9ZREg42G&ust=1763232212468000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiEloGm8pADFQAAAAAdAAAAABAE');
+  background-size: 100% auto; /* 100% da largura, altura automática */
+  background-repeat: no-repeat; /* Para não repetir a imagem */
 
 }
 .prove{
