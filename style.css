@@ -1,0 +1,22 @@
+body{
+background-color: aqua;
+color: brown;
+
+}
+.prove{
+    background-color: azure;
+    width: 150px;
+    height: 75px;
+    background-color: lightgreen;
+
+
+}
+
+.document{
+ background-color: azure;
+ width: 50%; /* Ocupa metade da largura do elemento pai */
+ max-width: 400px; /* Mas nunca ultrapassa 400px */
+ height: auto; /* A altura se ajusta automaticamente ao conteúdo */
+
+
+}
